@@ -1,2 +1,2 @@
 def debugger():
-    print("\|/")
+    print("34565")
